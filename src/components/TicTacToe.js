@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import '/Users/maka/personal_projects/tic-tac-toe/tic-tac-toe/src/TicTacToe.css';
+import '/Users/maka/personal_projects/tic-tac-toe/src/TicTacToe.css';
 
 const TicTacToe = () => {
 
