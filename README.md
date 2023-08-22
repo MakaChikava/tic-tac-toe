@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 Test your strategic skills against a friend on the same device. Take turns marking your 'X' or 'O' on the grid as you aim to complete a row, column, or diagonal. The game offers a 3x3 grid where you strategically place your 'X' or 'O' to outsmart your opponent. Play, strategize, and aim for victory!" Can you claim victory with three in a row?
 
 ---
